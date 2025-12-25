@@ -5,9 +5,7 @@
 📍 Angola
 
 I build **responsive websites** and **modern web interfaces**, focusing on **clean structure, usability, and performance**.  
-I’m currently dedicated to **web development**, while also developing a strong interest in **UI/UX design** to create better user experiences.
-
-I believe in learning by building, and most of my projects here reflect my **growth journey as a developer**.
+I’m currently dedicated to **web development**, while also developing a strong interest in **UI/UX design**.
 
 ---
 
@@ -21,17 +19,6 @@ I believe in learning by building, and most of my projects here reflect my **gro
 
 ---
 
-## 🧠 What I’m focused on
-
-- 🌐 Web development fundamentals  
-- 🎨 User-friendly and clean interfaces  
-- 📱 Responsive layouts (mobile-first)  
-- 🧩 Structured and readable code  
-- 🗂️ Learning databases and backend basics  
-- 📚 Continuous learning through real projects  
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -41,15 +28,10 @@ I believe in learning by building, and most of my projects here reflect my **gro
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
-### Data (Introductory)
+### Backend & Data (Introductory)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Backend (Introductory)
-
 ![SQL](https://img.shields.io/badge/Databases-SQL-blue?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-
 
 ### Tools & Others
 
@@ -59,37 +41,34 @@ I believe in learning by building, and most of my projects here reflect my **gro
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Simplified)
 
 <p align="left">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=GracianoNetoo&show_icons=true&theme=tokyonight" />
+  <img height="150"
+       src="https://github-readme-stats.vercel.app/api?username=GracianoNetoo&show_icons=true&count_private=true&theme=tokyonight" />
 
-  <img height="170"
+  <img height="150"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=GracianoNetoo&layout=compact&theme=tokyonight" />
 </p>
+
+> ⚠️ Stats show only **public commits**. To see graphs, make at least one commit in a public repository.
 
 ---
 
 ## 📌 Projects
 
-On my GitHub you’ll find:
 - Web pages and landing pages  
 - UI-focused layouts and design experiments  
 - Academic and personal projects  
-- Practice projects to strengthen my fundamentals  
-
-Each repository represents a step forward in my learning process.
 
 ---
 
 ## 🎯 Goals
 
-- Become a solid **Web Developer**  
-- Improve my **JavaScript** skills  
-- Gain more experience with **databases and backend concepts**  
-- Combine **UI/UX design** with functional web development  
-- Build a strong and consistent portfolio  
+- Improve **JavaScript** and **frontend skills**  
+- Learn **backend basics** and databases  
+- Combine **UI/UX design** with web development  
+- Build a consistent portfolio  
 
 ---
 
@@ -100,4 +79,4 @@ Each repository represents a step forward in my learning process.
 ---
 
 ⭐ Feel free to explore my repositories  
-🤝 Open to feedback, learning opportunities, and collaborations
+🤝 Open to feedback and collaborations
