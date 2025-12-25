@@ -59,15 +59,6 @@ I believe in learning by building, and most of my projects here reflect my **gro
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api?username=GracianoNetoo&show_icons=true&theme=tokyonight" />
-
-  <img height="170"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GracianoNetoo&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
